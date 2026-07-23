@@ -217,18 +217,7 @@ POST /api/apartments/
 
 ---
 
-## Screenshots
 
-Add screenshots of:
-
-- Login Page
-- Resident Dashboard
-- Security Dashboard
-- Create Visitor Pass
-- Delivery Management
-- QR Code Generation
-
----
 
 ## Author
 
